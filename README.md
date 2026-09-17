@@ -29,10 +29,10 @@
 
 | Nome do Projeto | Breve Descrição | Framework | Links |
 | :---: | :---: | :---: | :---: |
-| **CRUD HexaBits** | CRUD para loja online de artigos eletronicos | .NET | [GitHub](https://github.com/ygor20/CRUD) |
+| **CRUD HexaBits** | CRUD para loja online de artigos eletrônicos | .NET | [GitHub](https://github.com/ygor20/CRUD) |
 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/ygor-oliveira-a9391242b/)
 
-- [GitHub Badge](https://github.com/ygor20)
+- [GitHub](https://github.com/ygor20)
