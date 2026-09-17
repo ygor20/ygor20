@@ -33,5 +33,6 @@
 
 ## Contato
 
-- [Linkedin] (https://www.linkedin.com/in/ygor-oliveira-a9391242b/)
-- [GitHub] (https://github.com/ygor20)
+- [LinkedIn](https://www.linkedin.com/in/ygor-oliveira-a9391242b/)
+
+- [GitHub Badge](https://github.com/ygor20)
