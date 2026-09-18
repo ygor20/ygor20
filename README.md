@@ -1,9 +1,9 @@
 ## Apresentação 
 - Estudante de Análise e Desenvolvimento de Sistemas
-- Buscando atuar como Analista/Desenvolvimento BackEnd
-- Atualmente aprofundando meus conhecimentos em linguagem C
+- Buscando atuar como estágiario em Desenvolvimento BackEnd/Database
+- Atualmente aprofundando meus conhecimentos em linguagem C e MySQL.
 
-## Tecnlogias e Ferramentas
+## Tecnologias e Ferramentas
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C# Badge](https://img.shields.io/badge/-C%23-0969da?logo=C%23)
 ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
@@ -20,7 +20,7 @@
 ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=flat)
 
 ## Meu Roadmap (Próximos 6 meses)
-- [x] Concluir meu primeiro projeto em C.
+- [ ] Concluir meu primeiro projeto em C.
 - [x] Criar um README de perfil no Github
 - [ ] Estudar POO 
 - [ ] Subir 2 projetos no GitHub
